@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Actualización en la Matriz de Riesgo: Cambio de Nombre de "SBIF" a "Pasivos'
+title: 'Actualización en la Matriz de Riesgo: Cambio de Nombre de "SBIF" a "Pasivos"'
 subtitle: Matriz de Riesgo - Cliente.
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
