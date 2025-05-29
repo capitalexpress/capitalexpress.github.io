@@ -20,7 +20,7 @@ author: Catalina Pinilla
 
 ## Cambia el estado de una operación.
 
-Cada vez que crees una nueva operación esta se generará con el estado de "Nueva"y esto lo debes modificar de manera manual por los estados que tenemos disponibles, los cuales son:
+Cada vez que crees una nueva operación, esta se generará con el estado "Nueva", y deberás cambiarla manualmente a uno de los estados disponibles:
 
 - En proceso
 - Enviada
