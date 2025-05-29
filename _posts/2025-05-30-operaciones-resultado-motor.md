@@ -12,7 +12,7 @@ author: Catalina Pinilla
 
 ## Resultado motor de decisiones
 
-Para poder acceder a los resultados del motor, debes oprimir el ícono de la columna acciones, donde podrás acceder a la ventana del resultado de las reglas.
+Para poder acceder a los resultados del motor, debes oprimir el ícono de la columna `Acciones`, donde podrás acceder a la ventana del resultado de las reglas.
 
 Podrás ver datos como:
 
