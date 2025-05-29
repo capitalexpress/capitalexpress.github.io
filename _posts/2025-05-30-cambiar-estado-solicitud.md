@@ -26,7 +26,7 @@ Cada vez que crees una nueva operación, esta se generará con el estado "Nueva"
 - Enviada
 - Abandonada
 
-Junto con el estado seleccionado puedes adjuntar alguna observación, y no olvides de guardar este cambio, el cual se podrá ver desde la ventana principal, esto podrá ayudarte agilizar tu trabajo, al aplicar los filtros de búsqueda.
+Junto con el estado seleccionado, puedes adjuntar alguna observación. No olvides guardar los cambios para que se vean en la ventana principal. Esto te ayudará a agilizar tu trabajo al aplicar los filtros de búsqueda.
 
 <video width="100%" controls>
 <source src="https://cdn.capitalexpress.cl/video/estado_operacion.mp4" type="video/mp4">
