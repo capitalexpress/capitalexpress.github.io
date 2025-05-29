@@ -20,7 +20,7 @@ Podrás ver datos como:
 - Detalles de la entrada de flujo.
 - Resultado de reglas motor de decisiones
 
-Estos resultados los podrás filtrar por estado en caso que así lo requieras en `Aprobado, Rechazado, Revisión, Error`
+Estos resultados los podrás filtrar por estado en caso de que así lo requieras en `Aprobado, Rechazado, Revisión, Error`
 
 <video width="100%" controls>
 <source src="https://cdn.capitalexpress.cl/video/resultados_motor_operaciones.mp4" type="video/mp4">
