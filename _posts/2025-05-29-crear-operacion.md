@@ -25,7 +25,7 @@ Crea la operación desde la sección `Factoring` en la opción `Operaciones`, do
   <img src="https://cdn.capitalexpress.cl/img/plazo_financiamiento.jpg" alt="plazo_financiamiento">
 </p>
 
-### Cuando el plazo seleccionado cae un día del fin de semana o feriado se aplazará para el siguiente día hábil
+### Cuando el plazo seleccionado cae un día de fin de semana o feriado, se aplazará para el siguiente día hábil.
 
 <p align="center">
   <img src="https://cdn.capitalexpress.cl/img/plazo_calculado.jpg" alt="plazo_calculado">
