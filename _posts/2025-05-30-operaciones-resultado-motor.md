@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Puedes ver el resultado del motor de decisiones
-subtitle: ahora verás el resultado por factura
+-subtitle: ahora verás el resultado por factura
++subtitle: Ahora verás el resultado por factura
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
 tags: [Operaciones, Cliente, Ejecutivo, Factura, Motor de decisiones]
