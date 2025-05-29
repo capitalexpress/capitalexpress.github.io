@@ -11,7 +11,7 @@ author: Catalina Pinilla
 
 ## Crear una operación
 
-Crea la operación desde la sección `Factoring` en la opción `Operaciones`, donde tendrás el listado de tus clientes y podrás seleccionar las facturas que estén disponibles para cesión, seleccionar un plazo entre `30-45-60-90 días` o podrás seleccionar otro plazo seleccionándolo desde el calendario.
+Crea la operación desde la sección `Factoring` en la opción `Operaciones`. Tendrás el listado de tus clientes y podrás seleccionar las facturas disponibles para cesión. Puedes elegir un plazo de `30, 45, 60 o 90 días`, o seleccionar otro plazo desde el calendario.
 
 <p align="center">
   <img src="https://cdn.capitalexpress.cl/img/crear_operación.jpg" alt="crear_operación">
