@@ -35,4 +35,8 @@ Crea la operación desde la sección `Factoring` en la opción `Operaciones`. Te
   <img src="https://cdn.capitalexpress.cl/img/vista_general_operaciones.jpg" alt="vista_general_operaciones">
 </p>
 
-De esta manera se ha generado la nueva operación donde también podrás cambiar el estado de la operación, descargar carta guía, volver a cambiar el plazo de la operación y ver los resultados del motor de decisiones.
+De esta manera se ha generado la nueva operación. Además, podrás:
+- Cambiar el estado de la operación.
+- Descargar la carta guía.
+- Modificar el plazo de la operación.
+- Ver los resultados del motor de decisiones.
