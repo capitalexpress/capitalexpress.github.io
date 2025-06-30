@@ -19,7 +19,7 @@ Ahora puedes mantener tu portafolio actualizado al marcar tus facturas diariamen
 - Ganada
 - Perdida
 
-Cuando asignes un estado a tus facturas, estas serán procesadas automáticamente a formar parte de tus indicadores en el `Reporte de gestión comercial`, sólo podrás seguir visualizando aquellas que figuren a `Potencial`, esas quedaran en la tabla para futuras modificaciones
+Cuando asignes un estado a tus facturas, estas se procesarán automáticamente y formarán parte de tus indicadores en el `Reporte de gestión comercial`; solo podrás seguir visualizando aquellas que figuren como `Potencial`. Esas quedarán en la tabla para futuras modificaciones.
 
 <video width="100%" controls>
 <source src="https://cdn.capitalexpress.cl/video/marcadodefacturas.mp4" type="video/mp4">
