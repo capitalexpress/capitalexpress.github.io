@@ -11,8 +11,7 @@ author: Catalina Pinilla
 
 ## Gestión comercial
 
-Ahora puedes mantener tu portafolio actualizado al marcar tus facturas diariamente. Podrás asignarle a tus facturas con distintos estados, los cuales son:
-
+Ahora puedes mantener tu portafolio actualizado al marcar tus facturas diariamente. Podrás asignarles distintos estados a tus facturas; estos son:
 - Riesgo
 - Tasa
 - Potencial
