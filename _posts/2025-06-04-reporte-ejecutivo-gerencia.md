@@ -11,24 +11,30 @@ author: Catalina Pinilla
 
 ## Reporte de gestión comercial
 
-En esta sección se han reunidos los elementos claves para que puedas identificar oportunidades de mejora, analizar cartera y tomar decisiones estratégicas basadas tú desempeño.
+En esta sección se han reunido los elementos claves para que puedas identificar oportunidades de mejora, analizar cartera y tomar decisiones estratégicas basadas en tu desempeño.
 
-Los datos gestionados en gestión comercial, iran directamente a este apartado mostrando tus índices
+Los datos seleccionados en gestión comercial, irán directamente a este apartado mostrando tus índices
 
-#### Al crear tu operación verás esta ventana, donde se comenzarán a descargar los reportes automáticamente.
+#### Aquí te mostramos cómo se suman cada una de las facturas que gestiones a tu reporte.
 
-<p align="center">
-  <img src="https://cdn.capitalexpress.cl/img/solicitud-reportes-06-2025.jpg" alt="solicitud-reportes">
-</p>
+<video width="100%" controls>
+<source src="https://cdn.capitalexpress.cl/video/reportte-gestion-comercial-05-06-2025.mp4" type="video/mp4">
+Tu navegador no soporta el elemento de video.
+</video>
 
-#### Si deseas avanzar sin esperar los reportes, podrás ver el estado de estos en la parte superior de la pantalla
+Tendrás diferentes secciones en este panel.
 
-<p align="center">
-  <img src="https://cdn.capitalexpress.cl/img/barra-estado-reportes.jpg" alt="barra-estado-reportes">
-</p>
+- La primera sección verás el total del mercado.
 
-#### Cuando el reporte se complete verás la siguiente información para saber que se descargó de manera correcta
+![kpi-1](https://cdn.capitalexpress.cl/img/kpi-1.jpg)
 
-<p align="center">
-  <img src="https://cdn.capitalexpress.cl/img/reporte-completado-03-06-2025.jpg" alt="reporte-completado-03-06-2025">
-</p>
+- La siguiente sección muestra tu gestión de facturas.
+
+![kpi-2](https://cdn.capitalexpress.cl/img/kpi-2-.jpg)
+
+- Seguido podrás ver una tabla comparativa que depende de tu cargo la visualización de esto.
+
+![kpi-3](https://cdn.capitalexpress.cl/img/kpi-3.jpg)
+
+- Al final podrás ver el potencial de tu equipo si eres un jefe de grupo
+  ![kpi-4](https://cdn.capitalexpress.cl/img/kpi-4.jpg)
