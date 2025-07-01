@@ -23,12 +23,8 @@ Verás una barra de estado en la parte superior de la operación; en caso de que
 
 #### Si deseas avanzar sin esperar los reportes, podrás ver el estado de estos en la parte superior de la pantalla
 
-<p align="center">
-  <img src="https://cdn.capitalexpress.cl/img/barra-estado-reportes.jpg" alt="barra-estado-reportes">
-</p>
+![barra-estado-reportes](https://cdn.capitalexpress.cl/img/barra-estado-reportes.jpg)
 
 #### Cuando el reporte se complete verás la siguiente información para saber que se descargó de manera correcta
 
-<p align="center">
-  <img src="https://cdn.capitalexpress.cl/img/reporte-completado-03-06-2025.jpg" alt="reporte-completado-03-06-2025">
-</p>
+![reporte-completado](https://cdn.capitalexpress.cl/img/reporte-completado-03-06-2025.jpg)
