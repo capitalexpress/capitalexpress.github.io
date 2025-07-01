@@ -15,7 +15,7 @@ author: Catalina Pinilla
 
 Para que no sea tedioso organizar tus facturas una a una, puedes marcar más de un documento a la vez. Selecciona hasta 25 archivos, elige un mismo estado para todos y confirma tu selección con el botón `Marcar seleccionadas`.
 
-Te mostramos como puedes hacerlo.
+Te mostramos cómo puedes hacerlo.
 
 #### Recuerda que al seleccionar cualquier estado tu factura desaparecerá del listado automáticamente, excepto si la envías a `Potencial`
 
