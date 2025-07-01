@@ -22,4 +22,19 @@ Los datos seleccionados en gestión comercial, irán directamente a este apartad
 Tu navegador no soporta el elemento de video.
 </video>
 
-Tendrás diferentes secciones en este panel
+Tendrás diferentes secciones en este panel.
+
+- La primera sección verás el total del mercado.
+
+![kpi-1](https://cdn.capitalexpress.cl/img/kpi-1.jpg)
+
+- La siguiente sección muestra tu gestión de facturas.
+
+![kpi-2](https://cdn.capitalexpress.cl/img/kpi-2-.jpg)
+
+- Seguido podrás ver una tabla comparativa que depende de tu cargo la visualización de esto.
+
+![kpi-3](https://cdn.capitalexpress.cl/img/kpi-3.jpg)
+
+- Al final podrás ver el potencial de tu equipo si eres un jefe de grupo
+  ![kpi-4](https://cdn.capitalexpress.cl/img/kpi-4.jpg)
