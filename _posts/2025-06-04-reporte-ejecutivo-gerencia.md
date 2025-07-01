@@ -11,7 +11,7 @@ author: Catalina Pinilla
 
 ## Reporte de gestión comercial
 
-En esta sección se han reunidos los elementos claves para que puedas identificar oportunidades de mejora, analizar cartera y tomar decisiones estratégicas basadas tú desempeño.
+En esta sección se han reunido los elementos claves para que puedas identificar oportunidades de mejora, analizar cartera y tomar decisiones estratégicas basadas tu desempeño.
 
 Los datos seleccionados en gestión comercial, irán directamente a este apartado mostrando tus índices
 
