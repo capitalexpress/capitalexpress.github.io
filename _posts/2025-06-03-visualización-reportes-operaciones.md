@@ -11,7 +11,7 @@ author: Catalina Pinilla
 
 ## Visualización de reportes pendientes en las operaciones
 
-Al crear una operación puedes validar la existencia y vigencia de los reportes requeridos durante la creación de la solicitud de la operación que estas creando, esos se solicitarán automáticamente.
+Al crear una operación puedes validar la existencia y vigencia de los reportes requeridos durante la creación de la solicitud de la operación que estás creando. Estos se solicitarán automáticamente.
 
 Podrás ver que reportes están vencidos, pendientes, completos y también cuando la descarga este completa. Si tienes prisa no te preocupes, puedes esperar que los reportes se descarguen en la ventana emergente o este se seguirá descargando mientras aplicas los plazos de cada factura, veras una barra de estado en la parte superior de la operación, en caso que tu prisa sea alta, te volverá a recordad si es que existen reportes que aún están pendientes y no se han logrado descargar.
 
