@@ -13,7 +13,7 @@ author: Catalina Pinilla
 
 ### Marcado masivo de facturas
 
-Para que no sea tedioso organizar tus facturas una a una, puedes marcar más de un documento a la vez, puedes seleccionar hasta 25 archivos que quieras seleccionar un mismo estado y seleccionando la opción que elijas con el botón `Marcar seleccionadas`
+Para que no sea tedioso organizar tus facturas una a una, puedes marcar más de un documento a la vez. Selecciona hasta 25 archivos, elige un mismo estado para todos y confirma tu selección con el botón `Marcar seleccionadas`.
 
 Te mostramos como puedes hacerlo.
 
