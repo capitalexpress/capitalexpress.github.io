@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ve los resultados del Motor de decisiones
-subtitle: Los resultados se verán par cada documento de tu operación
+subtitle: Los resultados se verán para cada documento de tu operación
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
 tags:
