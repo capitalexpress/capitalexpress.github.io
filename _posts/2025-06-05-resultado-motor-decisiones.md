@@ -31,7 +31,7 @@ Podrás también filtrar los resultados en:
 
 Esto te permitirá ver cada uno de los resultados de manera clasificada.
 
-#### Aquí te mostramos como acceder.
+### Aquí te mostramos cómo acceder
 
 <video width="100%" controls>
 <source src="https://cdn.capitalexpress.cl/video/resultado.motor.decisiones-2025-06-04.mp4" type="video/mp4">
