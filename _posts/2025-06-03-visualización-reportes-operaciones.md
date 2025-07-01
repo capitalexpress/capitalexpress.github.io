@@ -19,9 +19,7 @@ Verás una barra de estado en la parte superior de la operación; en caso de que
 
 #### Al crear tu operación verás esta ventana, donde se comenzarán a descargar los reportes automáticamente.
 
-<p align="center">
-  <img src="https://cdn.capitalexpress.cl/img/solicitud-reportes-06-2025.jpg" alt="solicitud-reportes">
-</p>
+![Solicitud de reportes](https://cdn.capitalexpress.cl/img/solicitud-reportes-06-2025.jpg)
 
 #### Si deseas avanzar sin esperar los reportes, podrás ver el estado de estos en la parte superior de la pantalla
 
