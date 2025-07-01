@@ -15,7 +15,7 @@ En esta sección se han reunido los elementos claves para que puedas identificar
 
 Los datos seleccionados en gestión comercial, irán directamente a este apartado mostrando tus índices
 
-#### Aquí te mostramos como se suman cada una de las facturas que gestiones a tu reporte.
+#### Aquí te mostramos cómo se suman cada una de las facturas que gestiones a tu reporte.
 
 <video width="100%" controls>
 <source src="https://cdn.capitalexpress.cl/video/reportte-gestion-comercial-05-06-2025.mp4" type="video/mp4">
