@@ -21,7 +21,8 @@ author: Catalina Pinilla
 ## Resultado del motor de decisiones
 
 Luego de crear una operación, puedes acceder al `Resultado del motor de decisiones`, donde verás, según los indicadores, si el deudor seleccionado es seguro o no de acuerdo con los datos reunidos.
-Podrás también filtrar los resultados en:
+
+Podrás también filtrar los resultados por:
 
 - Todos
 - Aprobado
