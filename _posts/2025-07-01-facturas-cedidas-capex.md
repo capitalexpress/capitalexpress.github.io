@@ -9,7 +9,7 @@ comments: false
 author: Catalina Pinilla
 ---
 
-## Gestión comercial - Facturas cedidas a Capex
+## Gestión comercial - Facturas cedidas a CAPEX
 
 Se ha habilitado el marcado de facturas cedidas a Capital Express Servicios Financieros para que puedas incluirlas correctamente en el apartado `Operaciones`
 
