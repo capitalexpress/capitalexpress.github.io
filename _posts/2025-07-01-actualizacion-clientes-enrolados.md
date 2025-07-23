@@ -4,7 +4,7 @@ title: ¿Quieres saber si la información de tus clientes se encuentra actualiza
 subtitle: Ve la Próxima actualización de tu cliente.
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
-tags: [Cliente, Ejecutivo, comercial, actualización]
+tags: [Cliente, Ejecutivo, Comercial, Actualización]
 comments: false
 author: Catalina Pinilla
 ---
