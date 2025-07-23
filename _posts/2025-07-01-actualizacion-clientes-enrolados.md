@@ -11,7 +11,7 @@ author: Catalina Pinilla
 
 ## Próxima actualización
 
-Accede al modulo de `Clientes` donde podrás encontrar el listado de tus clientes y ahí veías la última actualización de tu cliente pero sin saber la siguiente actualización, pero eso cambió, se ha añadido la columna de `próxima actualización` para que puedas tu negocio organizado
+Accede al módulo de `Clientes`, donde podrás encontrar el listado de tus clientes. Hasta ahora veías la última actualización de cada cliente, pero no conocías la siguiente. Eso cambió: se ha añadido la columna `Próxima actualización` para que puedas mantener tu negocio organizado.
 
 #### Aquí podrás ver esta nueva columna.
 
