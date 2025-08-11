@@ -11,7 +11,7 @@ author: Catalina Pinilla
 
 ## Gestión comercial - Score.
 
-Se habilitó la columna de score, donde podrás identificar de una manera mucho más efectiva como se clasifica la factura que vas a seleccionar en el apartado de ´Gestión comercial´, además de estar calificados del 1 al 9, están segmentados con colores del rojo al verde para una identificación más rápida.
+Se habilitó la columna de score. Así podrás identificar de manera más efectiva cómo se clasifica la factura que vas a seleccionar en el apartado de "Gestión comercial". Además, los scores están calificados del 1 al 9 y segmentados con colores del rojo al verde para una identificación más rápida.
 
 #### Aquí te mostramos como se visualiza esta nueva implementación.
 
