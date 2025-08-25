@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quieres saber el estado en que se encuentra una solicitud de línea de crédito.
+title: ¿Quieres saber el estado en que se encuentra una solicitud de línea de crédito?.
 subtitle: Ahora sabrás quienes han firmado la solicitud.
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
@@ -15,4 +15,4 @@ Cuando se requiere aprobar una solicitud, será más fácil identificar a los us
 
 #### Aquí te mostramos como se visualiza esta nueva implementación.
 
-![colunaFirmantes](https://cdn.capitalexpress.cl/img/2025-08-03-columna-firmantes-este.jpg)
+![columnaFirmantes](https://cdn.capitalexpress.cl/img/2025-08-03-columna-firmantes-este.jpg)
