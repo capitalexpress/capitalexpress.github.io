@@ -15,4 +15,4 @@ Cuando se requiere aprobar una solicitud, será más fácil identificar a los us
 
 #### Aquí te mostramos como se visualiza esta nueva implementación.
 
-![colunaFirmantes](https://cdn.capitalexpress.cl/img/2025-08-03-columna-firmantes.jpg)
+![colunaFirmantes](https://cdn.capitalexpress.cl/img/2025-08-03-columna-firmantes-este.jpg)
