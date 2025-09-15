@@ -11,7 +11,7 @@ author: Catalina Pinilla
 
 ## Operaciones
 
-En el apartado de `Factoring - operaciones` ahora no solo ingresaras las facturas y el plazo, si no que podrás calcular la simulación de las facturas ingresadas
+En el apartado de `Factoring - operaciones`, ahora no solo ingresarás las facturas y el plazo, sino que podrás calcular la simulación de las facturas ingresadas.
 
 ![simulacionPlazos](https://cdn.capitalexpress.cl/img/simulacion-plazos.jpg)
 
