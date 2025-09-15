@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simula la operación de tu cliente aquí en Advance
-subtitle: Cada vez más fácil, te mostramos como
+subtitle: Cada vez más fácil, te mostramos cómo
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
 tags: [Riesgo, Ejecutivo, Cliente, Asistente comercial, Operaciones, Simulación]
