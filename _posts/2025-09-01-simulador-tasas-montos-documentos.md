@@ -17,7 +17,7 @@ En el apartado de `Factoring - operaciones`, ahora no solo ingresarás las factu
 
 Aquí podrás generar la simulación ingresando los campos `Tasa`, `Comisión`, `Anticipo` y `Notaría`, los cuales son obligatorios. Además, puedes ingresar comentarios.
 
-Al lateral izquierdo verás el detalle según los datos que ingresaste
+Al lateral derecho verás el detalle según los datos que ingresaste
 
 ![simulacion](https://cdn.capitalexpress.cl/img/simulacion.jpg)
 
