@@ -23,6 +23,6 @@ Contarás con tarjetas "resumen" donde verás datos como Ventas, Compras y Marge
 
 ![resumen_total](https://cdn.capitalexpress.cl/img/resumen_total.png)
 
-Podrás ver esta información de manera más detallada en la tabla de " Compras y ventas" desde el estado de `Riesgo`
+Podrás ver esta información de manera más detallada en la tabla de "Compras y ventas" desde el estado de `Riesgo`
 
 ![tabla_total](https://cdn.capitalexpress.cl/img/tabla_total.png)
