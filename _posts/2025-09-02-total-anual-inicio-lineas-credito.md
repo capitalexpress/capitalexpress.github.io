@@ -17,7 +17,7 @@ En el apartado de `Factoring - Simulaciones`, cuando una solicitud se encuentre 
 - Aprobada
 - Rechazada
 - Pendiente de firma
-- Pendiente de observaicones
+- Pendiente de observaciones
 
 Contaras con tarjetas "resumen" donde veras datos como Ventas, Compras y Margen del año actual como del año anterior.
 
