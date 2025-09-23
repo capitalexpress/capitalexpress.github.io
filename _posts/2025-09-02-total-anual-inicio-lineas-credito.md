@@ -19,7 +19,7 @@ En el apartado de `Factoring - Simulaciones`, cuando una solicitud se encuentre 
 - Pendiente de firma
 - Pendiente de observaciones
 
-Contaras con tarjetas "resumen" donde veras datos como Ventas, Compras y Margen del año actual como del año anterior.
+Contarás con tarjetas "resumen" donde verás datos como Ventas, Compras y Margen del año actual y del año anterior.
 
 ![resumen_total](https://cdn.capitalexpress.cl/img/resumen_total.png)
 
