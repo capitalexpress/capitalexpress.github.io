@@ -11,12 +11,11 @@ author: Catalina Pinilla
 
 ## Consultas  por rut
 
-Cuando buscas un rut, ahora puedes ver en la parte superior datos que te podrían interesar, los cuales son:
+Cuando buscas un RUT, ahora puedes ver en la parte superior:
 
-- Razón social del rut que consultas
+- Razón social
 - Inicio de actividades
 - Tramo
-
 #### Todo en un solo lugar
 
 ![info_consultasporrut](https://cdn.capitalexpress.cl/img/info_consultasporrut.png)
