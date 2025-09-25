@@ -11,7 +11,7 @@ author: Catalina Pinilla
 
 ## Sublimite a financiar - Matriz de riesgo
 
-Se ah implementado la sección `Sublimite a financiar`, esto ayudará a tener visibilidad del límite de exposición sugerido según segmentación de riesgo, el monto dependerá del tramo al que corresponda el deudor.
+Se ha implementado la sección `Sublimite a financiar`, esto ayudará a tener visibilidad del límite de exposición sugerido según segmentación de riesgo, el monto dependerá del tramo al que corresponda el deudor.
 
 Puedes verlo disponible en `Matriz de riesgo` en la tarjeta `Línea de crédito` como último ítem.
 
