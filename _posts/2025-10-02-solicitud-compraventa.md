@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Cuando solicites la información de tu cliente podrás solicitar además los reportes de cesión y compra y venta.
-subtitle: Solciitud de información.
+subtitle: Solicitud de información.
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
-tags: [Riesgo, Admin, Super Admin, Reportes, Solcitud de reportes, Mantenedores, Compra, Venta, Cesion]
+tags: [Riesgo, Admin, Super Admin, Reportes, Solicitud de reportes, Mantenedores, Compra, Venta, Cesion]
 comments: false
 author: Catalina Pinilla
 ---
 
-## Solicitud de reportes  - Solciitud de información
+## Solicitud de reportes  - Solicitud de información
 
 Se ha actualizado el módulo de `Solicitud de información`, ahora podrás ver la sección de `Transacciones`, donde verás el estado de los reportes de la consulta que realices de los últimos 12 meses.
 
