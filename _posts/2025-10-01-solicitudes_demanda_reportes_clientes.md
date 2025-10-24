@@ -34,3 +34,4 @@ Así podrás detectar de una mejor manera si los reportes solicitados fueron sol
 **Verás que cambiará su estado a `En proceso` y cuando termine veras que el estado cambia a `Completado`**
 
 ![completado_solicitud_informacion](https://cdn.capitalexpress.cl/img/completado_solicitud_informacion.png)
+
