@@ -19,7 +19,7 @@ Puedes solicitar por separado el reporte que necesites actualizar o ambos, depen
 
 ![reporte_solicitado](https://cdn.capitalexpress.cl/img/reporte_solicitado.png)
 
-En caso que tengas dudas si se envió tú solicitud, cuando oprimas el botón del reporte que estás solicitando, también se te indicará si este fue enviado con éxito.
+En caso que tengas dudas si se envió tu solicitud, cuando oprimas el botón del reporte que estás solicitando, también se te indicará si este fue enviado con éxito.
 
 ![reporte_solicitado_correctamente](https://cdn.capitalexpress.cl/img/reporte_solicitado_correctamente.png)
 
