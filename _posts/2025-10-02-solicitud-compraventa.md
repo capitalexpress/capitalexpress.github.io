@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cuando solicites la información de tu cliente podrás solicitar además los reportes de cesión y compra y venta.
+title: Cuando solicites la información de tu cliente podrás solicitar además los reportes de cesión, compra y venta.
 subtitle: Solicitud de información.
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
@@ -27,6 +27,3 @@ En caso que tengas dudas si se envió tu solicitud, cuando oprimas el botón del
 Cuando solicites un reporte o este cambie de estado a vencido, verás que los iconos cambian y te indican el estado en el que se encuentra.
 
 ![iconos_solicitud](https://cdn.capitalexpress.cl/img/iconos_solciitud.png)
-
--Se ha actualizado el módulo de `Solicitud de información`, ahora podrás ver la sección de `Transacciones`, donde verás el estado de los reportes de la consulta que realices de los últimos 12 meses.
-+Se ha actualizado el módulo de `Solicitud de información`. Ahora podrás ver la sección de `Transacciones`, donde verás el estado de los reportes de la consulta que realices de los últimos 12 meses.
