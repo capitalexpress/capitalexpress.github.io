@@ -11,7 +11,7 @@ author: Catalina Pinilla
 
 ## Resultado ponderado en documentos - Operaciones.
 
-Contamos con un nuevo formato en el módulo de operaciones, ahora ya no debes posar el mouse sobre en ícono para saber la ponderación del documento, ahora puedes verlo inmediatamente y visualizaras tres colores indicando:
+Contamos con un nuevo formato en el módulo de operaciones, ahora ya no debes posar el mouse sobre el ícono para saber la ponderación del documento, ahora puedes verlo inmediatamente y visualizarás tres colores indicando:
 
 - Verde - Aceptado
 - Amarillo - En revisión
