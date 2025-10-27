@@ -11,7 +11,7 @@ author: Catalina Pinilla
 
 ## Solicitud de reporte de DICOM - Matriz de riesgo.
 
-Cuando revises el reporte de dicom de tu cliente o deudor podrás ver la última actualización de este y así podrás solicitar uno nuevo, actualizando la tabla.   
+Cuando revises el reporte de dicom de tu cliente o deudor podrás ver la última actualización de este y así podrás solicitar uno nuevo, actualizando la tabla.
 
 ![ultima_actualizacion](https://cdn.capitalexpress.cl/img/ultima_actualizacion.png)
 
