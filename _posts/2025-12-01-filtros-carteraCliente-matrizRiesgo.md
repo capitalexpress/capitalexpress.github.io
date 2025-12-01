@@ -9,9 +9,9 @@ comments: false
 author: Catalina Pinilla
 ---
 
-## Matriz de Riesgo - Cartera de cliente.
+## matriz de riesgo - Cartera de cliente
 
-Al ingresar un cliente en la `Matriz de riesgo - Cliente` se ha incorporado filtros predeterminados, para que asi puedas ver los puntos claves de interés para poder evaluar a tu cliente de una manera mucho más rápida.
+Al ingresar un cliente en la `Matriz de riesgo - Cliente`, se han incorporado filtros predeterminados, para que así puedas ver los puntos claves de interés para poder evaluar a tu cliente de una manera mucho más rápida.
 
 Los filtros que encontrarás marcados al ingresar son:
 
