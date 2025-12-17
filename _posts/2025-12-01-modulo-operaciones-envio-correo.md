@@ -23,7 +23,7 @@ También podrás ver los resultados del motor de decisiones y el detalle de las 
 
 ![facturas-motor](https://cdn.capitalexpress.cl/img/facturas-motor.png)
 
-Y en la pestaña "Deudores" podrás acceder a los contactos de cada deudor. Podrás seleccionar más de un correo, ingresar uno nuevo y buscar en caso que el listado sea demasiado largo.
+Y en la pestaña "Deudores" podrás acceder a los contactos de cada deudor. Podrás seleccionar más de un correo, ingresar uno nuevo y buscar en caso de que el listado sea demasiado largo.
 
 ![deudores-operacion](https://cdn.capitalexpress.cl/img/deudores-operacion.png)
 
