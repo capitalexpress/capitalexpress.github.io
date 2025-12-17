@@ -11,7 +11,7 @@ author: Catalina Pinilla
 
 ## Operaciones 
 
-Cuando se el Asistente comercial o ejecutivo comercial, hayan creado una operación en `Advance`, podrás ver el detalle de la operación en la pestaña "Resumen", donde visualizarás:
+Cuando el Asistente comercial o Ejecutivo comercial hayan creado una operación en `Advance`, podrás ver el detalle de la operación en la pestaña "Resumen", donde visualizarás:
 
 - Información general de la solicitud.
 - Datos de la operación.
