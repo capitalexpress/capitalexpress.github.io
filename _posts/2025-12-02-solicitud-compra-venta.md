@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solicita las compras y ventas de tú cliente, para tener las facturas más recientes en el módulo de operaciones.
+title: Solicita las compras y ventas de tu cliente, para tener las facturas más recientes en el módulo de operaciones.
 subtitle: Solicita los reportes y actualiza la información.
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
