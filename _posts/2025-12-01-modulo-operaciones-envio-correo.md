@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ahora podrás verificar enviar el correo a los deudores desde Advance.
+title: Ahora podrás verificar las operaciones al enviar el correo a los deudores desde Advance.
 subtitle: Busca, agrega y envía de manera rápida y eficiente.
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
