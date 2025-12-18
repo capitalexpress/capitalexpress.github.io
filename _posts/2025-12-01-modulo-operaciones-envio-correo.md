@@ -30,6 +30,6 @@ Y en la pestaña "Deudores" podrás acceder a los contactos de cada deudor. Podr
 #### ¡Recuerda! Es importante que guardes tu progreso antes de enviar a verificación; si no, no quedará tu selección almacenada para el envío de correo.
 
 <video width="100%" controls>
-<source src="https://cdn.capitalexpress.cl/video/envio de facturas.mp4" type="video/mp4">
+<source src="https://cdn.capitalexpress.cl/video/envio_facturas.mp4" type="video/mp4">
 Tu navegador no soporta el elemento de video.
 </video>
