@@ -1,0 +1,63 @@
+---
+layout: post
+title: La información de tu operación en una sola ventana.
+subtitle: Navega en un solo sitio y obtén la información que necesitas.
+gh-repo: /capitalexpress/capitalexpress.github.io
+gh-badge: [star, fork, follow]
+tags: [Riesgo, Admin, Super Admin, Ejecutivo comercial, Asistente comercial, Operaciones, Vista unificada]
+comments: false
+author: Catalina Pinilla
+---
+
+## Operaciones 
+
+Puedes acceder desde el detalle de operación a una pantalla que unifica toda la información relevante de una operación, donde ahora tienes una visión completa, en tiempo real, la cual te ayudará a tomar decisiones más rápidas y acertadas
+
+<video width="100%" controls>
+<source src="https://cdn.capitalexpress.cl/video/pantalla_unificada_general.mp4" type="video/mp4">
+Tu navegador no soporta el elemento de video.
+</video>
+
+### Resumen
+En esta pestaña podrás ver:
+
+- Información general de la solicitud.
+- Datos de la operación.
+- Resumen de Operación.
+
+
+![ventana_resumen](https://cdn.capitalexpress.cl/img/ventana_resumen.png)
+
+### Facturas
+
+En esta ventana verás:
+
+- Facturas.
+- Resultado del motor de decisiones.
+- Generación de informe.
+- Reportes. 
+- Cartera por producto.
+- Compras y ventas.
+- Deudores.
+
+La información de los reportes que se encuentran en esta sección, son los solicitados al momento de generar la operación. 
+
+![ventana_facturas](https://cdn.capitalexpress.cl/img/ventana_facturas.png)
+
+Te dejamos a continuación un breve vídeo para que puedas ver las diferentes opciones que te entrega esta sección.
+
+<video width="100%" controls>
+<source src="https://cdn.capitalexpress.cl/video/usabilidad_facturas.mp4" type="video/mp4">
+Tu navegador no soporta el elemento de video.
+</video>
+
+### Deudores
+
+En la pestaña "Deudores" podrás acceder a los contactos de cada deudor por separado, además podrás seleccionar más de un correo, ingresar uno nuevo y buscar en caso de que el listado sea demasiado largo.
+
+<video width="100%" controls>
+<source src="https://cdn.capitalexpress.cl/video/pantalla_deudores.mp44" type="video/mp4">
+Tu navegador no soporta el elemento de video.
+</video>
+
+#### ¡Recuerda! Es importante que guardes tu progreso antes de enviar a verificación; si no, no quedará tu selección almacenada para el envío de correo.
