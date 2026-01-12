@@ -25,7 +25,7 @@ Tu navegador no soporta el elemento de video.
 
 ## Operaciones - Modificar estado
 
-Para el estado de un contacto, la operación debe estar en estado `En verificación` para que puedas acceder a este menú, tendrán acceso solo los roles con permisos para este estado.
+Para modificar el estado de un contacto, la operación debe estar en estado `En verificación` para que puedas acceder a este menú, tendrán acceso solo los roles con permisos para este estado.
 
 Debes ingresar a la sección `Deudores`, desplegar el deudor del correo que quieres modificar y en la columna `Estado`, podrás seleccionar las opciones:
 
