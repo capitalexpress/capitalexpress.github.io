@@ -19,7 +19,7 @@ Puedes cargar los documentos de tu operación en Advance, desde la simulación d
 
 Al presionar el botón, automáticamente se habrán borrado los documentos que su formato no está permitido con solo un click
 
-También si cometiste un error y cargaste elementos que no eran correctos, podrás borrarlos de manera detallada o todos si asi lo deseas.
+También si cometiste un error y cargaste elementos que no eran correctos, podrás borrarlos de manera detallada o todos si así lo deseas.
 
 ![subir_archivos](https://cdn.capitalexpress.cl/img/subir_archivos.png)
 
