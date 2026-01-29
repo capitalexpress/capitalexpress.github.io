@@ -34,7 +34,7 @@ Tu navegador no soporta el elemento de video.
 
 ## Borrar archivos
 
-Para poder borrar los archivos cuando ya están cargados, es importante que sepas que solo podrás eliminar sólo los archivos que tú hayas cargado, no podrás borrar los archivos de otras personas.
+Para poder borrar los archivos cuando ya están cargados, es importante que sepas que solo podrás eliminar los archivos que tú hayas cargado, no podrás borrar los archivos de otras personas.
 
 
 <video width="100%" controls>
