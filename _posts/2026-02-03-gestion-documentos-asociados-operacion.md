@@ -11,7 +11,7 @@ author: Catalina Pinilla
 
 ## Operaciones - Carga de archivos.
 
-Puedes cargar los documentos de tu operación en Advance, desde la simulación de tu factura, puedes acceder a la pestaña `Adjuntos`, puedes arrastrar o clickear en la sección de carga para subir hasta 10 archivos a la vez. Se permiten los archivos pdf, jpg, .xlsx, si cargas un elemento en otro formato, se informará, que han sido cargados archivos no admitidos y podrás filtrarlos, para eliminar solo los documentos no admitidos, sin eliminar los que cuentan con el formato correcto.
+Puedes cargar los documentos de tu operación en Advance, desde la simulación de tu factura, puedes acceder a la pestaña `Adjuntos`, puedes arrastrar o clickear en la sección de carga para subir hasta 10 archivos a la vez. Se permiten los archivos .pdf, .jpg, .xlsx, si cargas un elemento en otro formato, se informará, que han sido cargados archivos no admitidos y podrás filtrarlos, para eliminar solo los documentos no admitidos, sin eliminar los que cuentan con el formato correcto.
 
 #### Aquí te mostramos como funciona.
 
