@@ -11,7 +11,7 @@ author: Catalina Pinilla.
 
 ## Operaciones - Cierre de la operación.
 
-Cuando una operación se encuentra en estado `En verificación`, los usuarios que cuentan con el rol `Ejecutivo comercial` podrás cerrar una operación cuando esta ya haya cumplido el proceso de verificación, Riego, Firma y Deposito, puedes oprimir el botón de `Cerrar operación` y quedará finalizado el flujo.
+Cuando una operación se encuentra en estado `En verificación`, los usuarios que cuentan con el rol `Ejecutivo comercial` podrán cerrar una operación cuando esta ya haya cumplido el proceso de verificación, Riesgo, Firma y Depósito, puedes oprimir el botón de `Cerrar operación` y quedará finalizado el flujo.
 
 #### Aquí te mostramos como hacerlo.
 
