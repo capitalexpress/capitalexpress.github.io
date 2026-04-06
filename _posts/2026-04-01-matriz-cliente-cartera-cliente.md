@@ -14,12 +14,12 @@ author: Catalina Pinilla.
 En la matriz de riesgo, ahora podrás ver en la cartera del cliente, en las categorías `Vigente` y `Morosa`, los montos correspondientes al cliente.
 En caso de que no haya información, verás los montos como `$0`.
 
-#### Aquí te mostramos como se ve:
+#### Aquí te mostramos cómo se ve:
 ![estado_matriz_riesgo](https://cdn.capitalexpress.cl/img/sub-estado_matriz_riesgo.png)
 
 ## Matriz de riesgo - Cliente es deudor.
 
-Se ha implementado la categoría `¿Es deudor?`, aquí puedes identificar rápidamente si el cliente que estas analizando, a su vez, es deudor. Lo verás destacado en la sección `Información de cliente`.
+Se ha implementado la categoría `¿Es deudor?`, aquí puedes identificar rápidamente si el cliente que estás analizando, a su vez, es deudor. Lo verás destacado en la sección `Información cliente`.
 
-#### Aquí te mostramos como se ve:
+#### Aquí te mostramos cómo se ve:
 ![es_deudor_matriz_riesgo](https://cdn.capitalexpress.cl/img/es_deudor_matriz_riesgo.png)
