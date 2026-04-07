@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ve los 5 deudores principales del cliente.
-subtitle:  Ingresa a la Matriz de Riesgo Cliente para poder verlos.
+subtitle: Ingresa a la Matriz de Riesgo Cliente para poder verlos.
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
 tags: [Admin, Super Admin, Riesgo]
@@ -11,7 +11,7 @@ author: Catalina Pinilla.
 
 ## Matriz de riesgo - Top 5 deudores.
 
-Verás un recuadro con los 5 deudores principales del cliente (mostrando exclusivamente nombre y RUT) al ingresar a la Matriz de Riesgo Cliente.
+Verás un recuadro con los 5 deudores principales del cliente (mostrando exclusivamente nombre, RUT y Tramo) al ingresar a la Matriz de Riesgo Cliente.
 
 Esto te permitirá obtener una idea rápida de su concentración y principales pagadores, asegurando que la información provenga solo de facturas de los últimos 12 meses.
 
