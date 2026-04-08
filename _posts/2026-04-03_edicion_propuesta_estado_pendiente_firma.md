@@ -11,7 +11,7 @@ author: Catalina Pinilla.
 
 ### Factoring -  Solicitud de línea de crédito.
 
-Siempre quisiste poder editar directamente las condiciones de la propuesta (productos, deudores, montos, plazos y anticipos) cuando la solicitud está "Pendiente de firma",para ajustar el riesgo comercial en la última milla y aprobar la línea sin necesidad de devolver la solicitud a la etapa inicial ni reiniciar las firmas previas.
+Siempre quisiste poder editar directamente las condiciones de la propuesta (productos, deudores, montos, plazos y anticipos) cuando la solicitud está "Pendiente de firma", para ajustar el riesgo comercial en la última milla y aprobar la línea sin necesidad de devolver la solicitud a la etapa inicial ni reiniciar las firmas previas.
 Ahora es posible, además si la solicitud yas ha sido firmada por un integrante, aún así podrás realizar modificaciones sin necesidad de perder la firma ya  añadida.
 
 #### Aquí te mostramos cómo se ve:
