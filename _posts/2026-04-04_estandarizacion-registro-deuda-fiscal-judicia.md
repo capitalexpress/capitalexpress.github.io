@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Estandarización de registro de deuda fiscal y judicial.
-subtitle: Registra la deuda fiscal y judicial utilizando campos estructurados y normalizados.
+subtitle: Visualiza la deuda fiscal y judicial utilizando campos estructurados y normalizados.
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
 tags: [Admin, Super Admin, Riesgo]
