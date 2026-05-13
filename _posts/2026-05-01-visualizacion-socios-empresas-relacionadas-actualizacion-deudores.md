@@ -32,6 +32,6 @@ Cuando una solicitud esté en estado de `Comité` en la tabla de "Deudor", verá
 - Activo
 - Acciones
 
-La información se verá de manera compactada desde este punto, a la que le siguen.
+La información se verá de manera compactada desde el estado de comité en adelante.
 
 ![visualizacion_tabla_deudor](https://cdn.capitalexpress.cl/img/visualizacion_tabla_deudor.png)
