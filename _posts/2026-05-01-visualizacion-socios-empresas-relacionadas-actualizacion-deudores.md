@@ -20,7 +20,7 @@ Tu navegador no soporta el elemento de video.
 
 ##  Solicitud de línea de crédito - Información Deudor
 
-Cuando una solicitud esté en estado de `Comité` en la tabla de "Deudor", verás la información contenida en una sola tabla, donde se mostrarán los siguientes campos:
+Cuando una solicitud esté en estado de `Comité` verás la información de "Deudor" consolidada en una sola tabla donde se mostrarán los siguientes campos:
 
 - Rut
 - Nombre
